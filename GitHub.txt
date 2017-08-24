@@ -1,0 +1,22 @@
+Devops =Huge Demand
+
+VSTS and GIT
+ CI and CD 
+
+Buld and Test Automation- US Bank
+
+Commit
+Sync
+and Push
+
+VSTS -2015 Update3 Now Update4 ( Pullrequest)
+
+
+-HellowordlVSTSGIT using ASP.NET MVC 
+  -Team 
+      -KB
+      -Murali
+      -Manju
+      -Nandish
+
+http://msysgit.github.io/
